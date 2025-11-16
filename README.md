@@ -83,8 +83,7 @@ The attacker attempted to impersonate SBI banking services to steal login detail
 
 ## 📁 Files in This Repository
 - `phishing_email_sample.txt` → Full email content  
-- `email_headers_screenshot.png` → Header result screenshot  
-- `analysis.txt` → Step-by-step explanation (if added)  
+- `screenshot.png` → Header result screenshot    
 - `README.md` → Complete documentation  
 
 ---
