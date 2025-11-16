@@ -1,0 +1,26 @@
+Message ID: <93hf83hdsf8sd9f8sd@secure-update-banking.com>
+Created on: 16 November 2025 at 14:04
+From: SBI Support <support@sbi-secure-verification.com>
+To: chorgheroshani205@gmail.com
+Subject: Urgent! Your SBI account will be blocked in 24 hours!
+
+SPF: FAIL (IP 185.222.202.19 is not authorized)
+DKIM: FAIL (No DKIM signature found)
+DMARC: FAIL (Policy reject)
+Mailed-by: sbi-secure-verification.com
+Signed-by: NONE
+
+--------------------------------------------
+
+Dear Customer,
+
+Your SBI account has been temporarily suspended due to suspicious activity.
+To restore access, please verify your KYC details immediately.
+
+Click the link below to continue:
+https://sbi-online-verification-secure.com/kyc-update
+
+Failure to update within 24 hours will result in permanent account suspension.
+
+Thank you,
+SBI Verification Team
